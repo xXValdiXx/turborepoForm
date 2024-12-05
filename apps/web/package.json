@@ -14,12 +14,13 @@
     "@repo/ui": "*",
     "next": "15.0.3",
     "react": "19.0.0-rc-66855b96-20241106",
-    "react-dom": "19.0.0-rc-66855b96-20241106"
+    "react-dom": "19.0.0-rc-66855b96-20241106",
+    "ui": "^0.2.4"
   },
   "devDependencies": {
     "@repo/eslint-config": "*",
     "@repo/typescript-config": "*",
-    "@types/node": "^20",
+    "@types/node": "^20.17.9",
     "@types/react": "18.3.1",
     "@types/react-dom": "18.3.0",
     "typescript": "5.5.4"
